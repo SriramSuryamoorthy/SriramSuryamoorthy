@@ -31,7 +31,6 @@ I focus on building strong fundamentals, learning by practice, and improving ste
 ---
 
 ## 💻 Tech Arsenal
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ### Core Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,8 +66,7 @@ I focus on building strong fundamentals, learning by practice, and improving ste
 ### ✍️ Random Dev Quote
 ## 💬 Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
----
+![Dev Quote](https://i.imgur.com/7r6XQ9C.png)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
