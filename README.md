@@ -66,6 +66,7 @@ I focus on building strong fundamentals, learning by practice, and improving ste
 ### ✍️ Random Dev Quote
 ## 💬 Dev Quote
 
-(https://i.imgur.com/7r6XQ9C.png)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
